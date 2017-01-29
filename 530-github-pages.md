@@ -35,11 +35,12 @@ Comment créer un site hébergé dans Github Pages:
 <h3>Réglages à faire dans GitHub</h3>
 
 - Premièrement, votre projet doit être publié sur GitHub.
-- Créer une nouvelle branche, que vous nommez "gh-pages".
-- Si vous n'utilisez pas la branche "master", vous pouvez définir "gh-page" comme branche principale (et effacer la branche "master" pour éviter les confusions).
 - Aller dans les "Settings" de votre projet, dans la partie "Github Pages"
-- Renseignez le domaine, p.ex. portfolio.example.com
-- Enregistrez ("Save") - ça y est, votre site fonctionne!
+- Sous "Source", choisir la branche à utiliser.
+- Sous "Custom domain", renseigner le domaine, p.ex. portfolio.example.com
+- Enregistrer ("Save") - ça y est, votre site fonctionne!
+
+Note: initialement il était nécessaire de créer une branche nommée "gh-pages", mais ce [n'est plus nécessaire depuis août 2016](https://github.com/blog/2228-simpler-github-pages-publishing).
 
 ![Saisie du domaine pour GitHub Pages](/cours-divers/img/github-custom-pages.png)
 
