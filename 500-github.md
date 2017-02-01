@@ -10,6 +10,8 @@ Explication concernant le système de versionnement Git.
 
 **GitHub** est un service web offrant l'hébergement de projets utilisant Git, lancé en 2008 (cf. [cet article](http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html) sur les débuts de cette startup californienne). Devenu extrêmement populaire, GitHub offre de nombreuses fonctionnalités facilitant la communication et la collaboration. 
 
+
+
 Quelques services d'hébergement Git: 
 
 * [GitHub](https://github.com/), le plus utilisé avec plus de 14 millions d'utilisateurs (état 2016). 

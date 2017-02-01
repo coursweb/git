@@ -4,6 +4,8 @@ title: Documentation
 permalink: /git/documentation/
 ---
 
+Quelques ressources pour apprendre à utiliser Git:
+
 - *[GitHub Pour les Nuls](http://christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)*, par Lauren Orsini, trad. Christophe Ducamp, 2013.
 - *[Gérez vos codes source avec Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)*, un cours sur OpenClassroooms, par Mathieu Nebra.
 - *[Les bases de Git](https://git-scm.com/book/fr/v12)*, dans la documentation officielle de Git.

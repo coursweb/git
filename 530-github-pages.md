@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Utiliser Github Pages
+title: Utiliser GitHub Pages
 permalink: /git/github-pages/
 ---
 
-Comment créer un site hébergé dans Github Pages:
+Comment créer un site hébergé dans GitHub Pages - une fonctionalité gratuite de GitHub, qui permet de publier un site web à partir d'un projet GitHub, en utilisant un nom de domaine de votre choix.
 
 <h3>Réglages à faire dans l'administration DNS de votre hébergeur</h3>
 
-- Réfléchissez au type de domaine que vous souhaitez utiliser. 
-- Rendez-vous dans la gestion des zones DNS de votre domaine (chez Infomaniak ou autre).
+- Décidez quel nom de domaine vous souhaitez utiliser. 
+- Rendez-vous dans la gestion des zones DNS de votre registrar (chez Infomaniak ou autre).
 - Pour trouver cet endroit chez Infomaniak, connectez-vous à [admin2.infomaniak.com](https://admin2.infomaniak.com/), allez dans : *Nom de domaine > Nom de votre domaine > Gestion des DNS*, puis cliquez le bouton "Gérer les zones DNS".
 
 **Option sous-domaine:**
 
 - Si le domaine comporte un sous-domaine, comme portfolio.example.com, ou www.example.com, vous devrez créer une entrée de type CNAME.
-- Renseignez "Champ/Field" (entrer le sous-domaine choisi), et "Cible/Target" (username.github.io). Si votre utilisateur est p.ex. Gandalf69, vous entrerez : gandalf69.github.io (tout en minuscules).
+- Renseignez "Champ/Field" (entrer le sous-domaine choisi), et "Cible/Target" (username.github.io). Si votre utilisateur est p.ex. Mafalda, vous entrerez : mafalda.github.io (tout en minuscules).
 - Vous pouvez laisser le champ TTL avec sa valeur par défaut.
 
 ![Ajout de CNAME chez Infomaniak](/cours-divers/img/github-dns-cname.png)
@@ -44,7 +44,7 @@ Note: initialement il était nécessaire de créer une branche nommée "gh-pages
 
 ![Saisie du domaine pour GitHub Pages](/cours-divers/img/github-custom-pages.png)
 
-Références GitHub: 
+Documentation de GitHub Pages: 
 
 * [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 * [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
