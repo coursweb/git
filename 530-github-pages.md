@@ -40,7 +40,7 @@ Comment créer un site hébergé dans GitHub Pages - une fonctionalité gratuite
 - Sous "Custom domain", renseigner le domaine, p.ex. portfolio.example.com
 - Enregistrer ("Save") - ça y est, votre site fonctionne!
 
-Note: initialement il était nécessaire de créer une branche nommée "gh-pages", mais ce [n'est plus nécessaire depuis août 2016](https://github.com/blog/2228-simpler-github-pages-publishing).
+Note: initialement il était nécessaire de créer une branche nommée "gh-pages", mais ce [n'est plus nécessaire depuis août 2016](https://github.com/blog/2228-simpler-github-pages-publishing), on peut désormais aussi utiliser la branche "master".
 
 ![Saisie du domaine pour GitHub Pages](/cours-divers/img/github-custom-pages.png)
 

@@ -73,6 +73,13 @@ Se rendre dans l'historique de Github Desktop, et retourner dans une version ant
 
 Vous devez les corriger soit en effaçant l'une des versions, soit en utilisant une fonction "Resolve a Merge" dans votre logiciel Git.
 
+***
+
+**Problème:** On a fait un "revert" sur un commit qu'on souhaite en fait garder.
+Résultat: Git efface les fichiers.
+
+**Réponse:** On peut "reverter" un "revert" ! Cela restaure les modifications qu'on avait supprimées. Voir [stackoverflow.com](http://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit).
+
 C'est plus simple avec un graphe
 ===
 
