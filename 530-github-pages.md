@@ -32,6 +32,8 @@ Comment créer un site hébergé dans GitHub Pages - une fonctionalité gratuite
 
 ![Même réglage, chez Hostpoint](/cours-divers/img/git-apex-hostpoint.png)
 
+PS: le réglage d'adresse IP sera différent pour d'autres services web. P.ex. pour un domaine Tumblr, l'adresse IP sera 66.6.44.4.
+
 <h3>Réglages à faire dans GitHub</h3>
 
 - Premièrement, votre projet doit être publié sur GitHub.
