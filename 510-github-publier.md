@@ -4,7 +4,7 @@ title: Créer un projet
 permalink: /git/github-creer/
 ---
 
-<h3>Comment créer un projet sur GitHub?</3>
+**Comment créer un projet sur GitHub?**
 
 Voici la méthode avec l'application GitHub Desktop:
 
