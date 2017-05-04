@@ -67,7 +67,7 @@ Source: [The Git Book](https://git-scm.com/book/fr/v2/Git-distribu%C3%A9-Contrib
 
 ![Messages de Commit](/cours-divers/img/git-commit-messages.png)
 
-Source: *Git for Humans*, présentation par Alice Bartlett, développeuse au Financial Times
+Source: *[Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)*, présentation par Alice Bartlett, développeuse au Financial Times
 
 Les branches
 ===
