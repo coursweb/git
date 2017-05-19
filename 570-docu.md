@@ -21,3 +21,6 @@ Quelques ressources pour apprendre à utiliser Git:
 - *[Get Started with Git](http://alistapart.com/article/get-started-with-git)*, par Al Shaw, A List Apart #317, 2010. 
 - *[Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)*, par Tobias Günther, A List Apart #402, 2014
 
+**Réflexions sur la philosophie du versionnement**:
+
+- *[Infinite Versioning](http://f-u-t-u-r-e.org/r/25_David-Reinfurt_Infinite-Versioning_EN.md)*, par David Reinfurt, 2014
