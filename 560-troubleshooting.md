@@ -14,7 +14,7 @@ David Demaree, auteur de *Git for Humans*
 
 Sami Keijonen, développeur, [dans un article](https://poststatus.com/contributing-to-twenty-seventeen-theme/) où il relate sa contribution au thème WordPress TwentySeventeen.
 
-Il est important de réaliser que le plus important, avec Git, c'est d'adopter la pratique du "versionnement" dans son processus de travail. Ce n'est pas seulement un outil, un logiciel - c'est un ensemble de méthodes pour mieux organiser le travail collaboratif.
+Le plus important, avec Git, c'est d'adopter la pratique du "versionnement" dans son processus de travail. Ce n'est pas seulement un outil, un logiciel - c'est un ensemble de méthodes pour mieux organiser le travail collaboratif.
 
 ![Un message encourageant quand on ne comprend plus rien](/cours-git/img/git-homeomorphic.png)
 
@@ -55,7 +55,10 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 On se trouve avec des modifications non voulues. Comment revenir d'une version en arrière?
 
 **Solution:**  
-Se rendre dans l'historique de Github Desktop, et retourner dans une version antérieure... tout simplement avec un double click.
+
+* Se rendre dans l'onglet historique de Github Desktop
+* Sélectionner le dernier Commit.
+* Cliquer l'icône "roue dentée", choisir "Revert this Commit".
 
 ***
 
@@ -75,10 +78,17 @@ Vous devez les corriger soit en effaçant l'une des versions, soit en utilisant 
 
 ***
 
-**Problème:** On a fait un "revert" sur un commit qu'on souhaite en fait garder.
-Résultat: Git efface les fichiers.
+**Problème:** On a fait un "revert" sur un commit qu'on souhaite en fait garder.  
+Résultat: Git efface les fichiers!
 
 **Réponse:** On peut "reverter" un "revert" ! Cela restaure les modifications qu'on avait supprimées. Voir [stackoverflow.com](http://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit).
+
+***
+
+**Problème:** On a fait un "commit" dans la branche Master, mais en fait, on aurait préféré le faire sur une nouvelle branche (qui n'existe pas encore). Ceci afin de faire une "pull-request", suivant les bonnes pratiques du [workflow Git](/git/workflow/). 
+
+**Réponse:** ???
+
 
 C'est plus simple avec un graphe
 ===
