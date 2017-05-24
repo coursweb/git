@@ -23,6 +23,16 @@ Le plus important, avec Git, c'est d'adopter la pratique du "versionnement" dans
 Résolution de problèmes typiques:
 ==
 
+**Problème:** On souhaite annuler un commit précis qu'on a effectué.
+
+Solution: trouver le numéro identifiant du commit, et faire:
+
+```
+git revert --no-commit cc9c8f9 e7f7b31 0c2d789
+```
+
+Les numéros étant ici à remplacer par les vrais identifiants des commits.
+
 **Problème:** Lors de la synchronisation, Git dit: *Sync Failed - There are both local and remote commits. Please commit all your changes and then sync again*.
 
 **Tentative:** 
