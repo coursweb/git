@@ -23,6 +23,8 @@ Le plus important, avec Git, c'est d'adopter la pratique du "versionnement" dans
 Résolution de problèmes typiques:
 ==
 
+### Annuler un commit
+
 **Problème:** On souhaite annuler un commit précis qu'on a effectué.
 
 Solution: trouver le numéro identifiant du commit, et faire:
@@ -32,6 +34,8 @@ git revert --no-commit cc9c8f9 e7f7b31 0c2d789
 ```
 
 Les numéros étant ici à remplacer par les vrais identifiants des commits.
+
+### Erreurs de syncronisation
 
 **Problème:** Lors de la synchronisation, Git dit: *Sync Failed - There are both local and remote commits. Please commit all your changes and then sync again*.
 
@@ -59,10 +63,10 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 - Comme le dit l'explicatif, il faut intégrer tout d'abord les modifications du serveur (avec un pull).
 - Si des "Merge conflicts" apparaissent... les résoudre.
 
-***
+### Revenir en arrière
 
 **Problème:**  
-On se trouve avec des modifications non voulues. Comment revenir d'une version en arrière?
+On se trouve avec des modifications non voulues, qui ont été sauvées lors d'un commit. Comment revenir d'une version en arrière?
 
 **Solution:**  
 
@@ -70,7 +74,7 @@ On se trouve avec des modifications non voulues. Comment revenir d'une version e
 * Sélectionner le dernier Commit.
 * Cliquer l'icône "roue dentée", choisir "Revert this Commit".
 
-***
+### Apparition de Conflict Markers
 
 **Problème:** on a des caractères étranges dans un document, comme ceci: 
 
@@ -86,14 +90,14 @@ On se trouve avec des modifications non voulues. Comment revenir d'une version e
 
 Vous devez les corriger soit en effaçant l'une des versions, soit en utilisant une fonction "Resolve a Merge" dans votre logiciel Git.
 
-***
+### Revert accidentel
 
 **Problème:** On a fait un "revert" sur un commit qu'on souhaite en fait garder.  
 Résultat: Git efface les fichiers!
 
 **Réponse:** On peut "reverter" un "revert" ! Cela restaure les modifications qu'on avait supprimées. Voir [stackoverflow.com](http://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit).
 
-***
+### Changer de branche
 
 **Problème:** On a fait un "commit" dans la branche Master, mais en fait, on aurait préféré le faire sur une nouvelle branche (qui n'existe pas encore). Ceci afin de faire une "pull-request", suivant les bonnes pratiques du [workflow Git](/git/workflow/). 
 
