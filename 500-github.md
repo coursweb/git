@@ -24,6 +24,8 @@ Quelques services d'hébergement Git:
 Terminologie Git
 ==
 
+Voici quelques-unes des actions fondamentales de Git:
+
 **Commit** (commettre) : Valider vos modifications (a snapshot of your repo)
 
 **Push** (pousser) : send commits to a remote
@@ -51,7 +53,7 @@ Guide d'utilisation GitHub:
 
 (Documentation à compléter)
 
-- Créer un compte.
+- Créer un compte sur [Github.com](https://github.com/).
 - Télécharger l'application [Github Desktop](https://desktop.github.com/).
 - Créer un repository.
 - Synchroniser ses modifications
@@ -71,6 +73,14 @@ Source: *[Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)*
 
 Les branches
 ===
+
+Le système des **branches** est une fonctionalité puissante, qui permet de sortir d'un processus d'avancement linéaire, et de créer au sein d'un projet des "bifurcations".
+
+Cela permet par exemple de créer une version alternative et expérimentale, pour tester de nouvelles fonctionalités.
+
+Ces ajouts, qui peuvent introduire des dysfonctionnements, ne vont pas perturber la version de base (généralement la branche "master"), qui reste ainsi stable.
+
+Une fois qu'un développement expérimental arrive à maturité, on peut l'intégrer dans la version de base. On fera cela en fusionnant la branche expérimentale avec la branche "master", en faisant appel à la fonction "merge".
 
 Un explicatif des branches dans l'interface SourceTree: [Use SourceTree branches to merge an update](https://confluence.atlassian.com/bitbucket/use-sourcetree-branches-to-merge-an-update-732268925.html)
 
