@@ -4,7 +4,25 @@ title: Utiliser GitHub Pages
 permalink: /git/github-pages/
 ---
 
-Comment créer un site hébergé dans GitHub Pages - une fonctionalité gratuite de GitHub, qui permet de publier un site web à partir d'un projet GitHub, en utilisant un nom de domaine de votre choix.
+GitHub offre une fonctionalité gratuite, GitHub Pages, qui permet de publier un site web à partir d'un projet GitHub.
+
+Voici la marche à suivre:
+
+- Sur la page de votre projet Github, cliquez sur l'onglet *Settings*.
+- Scrollez vers le bas, dans la partie "Github Pages"
+- Sous "Source", choisir la branche à utiliser (en principe "master branch").
+- Laisser vide le champ "Custom domain".
+- Enregistrer ("Save").
+
+Vous verrez un message indiquant "Your site is published at https://(utilisateur).github.io/(projet)/"
+
+Si vous visitez la page immédatement, il est possible que vous ayez pendant les premières minutes une page d'erreur... Attendez un peu, le temps que votre site soit généré.
+
+## Utiliser GitHub Pages avec votre propre nom de domaine
+
+Vous souhaitez utiliser votre propre nom de domaine, au lieu du "monu-tilisateur.github.io/nom-du-projet" qui sera produit par GitHub? C'est possible!
+
+Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous avez acheté le nom de domaine. 
 
 <h3>Réglages à faire dans l'administration DNS de votre hébergeur</h3>
 
@@ -34,7 +52,7 @@ Comment créer un site hébergé dans GitHub Pages - une fonctionalité gratuite
 
 PS: le réglage d'adresse IP sera différent pour d'autres services web. P.ex. pour un domaine Tumblr, l'adresse IP sera 66.6.44.4.
 
-<h3>Réglages à faire dans GitHub</h3>
+### Réglages à faire dans GitHub
 
 - Premièrement, votre projet doit être publié sur GitHub.
 - Aller dans les "Settings" de votre projet, dans la partie "Github Pages"
