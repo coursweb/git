@@ -16,15 +16,19 @@ Voici la marche à suivre:
 
 Vous verrez un message indiquant "Your site is published at https://(utilisateur).github.io/(projet)/"
 
+![Réglages de GitHub Pages](/cours-divers/img/reglages-github-pages.png)
+
 Si vous visitez la page immédatement, il est possible que vous ayez pendant les premières minutes une page d'erreur... Attendez un peu, le temps que votre site soit généré.
+
+Note: votre adresse web GitHub Pages affichera automatiquement le fichier index.html situé à la base de votre projet. Vous pouvez aussi atteindre d'autres fichiers, en ajoutant leur nom à la fin de l'URL.
 
 ## Utiliser GitHub Pages avec votre propre nom de domaine
 
-Vous souhaitez utiliser votre propre nom de domaine, au lieu du "monu-tilisateur.github.io/nom-du-projet" qui sera produit par GitHub? C'est possible!
+Vous souhaitez utiliser votre propre nom de domaine, au lieu du "utilisateur.github.io/nom-du-projet" qui sera produit par GitHub? C'est possible!
 
 Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous avez acheté le nom de domaine. 
 
-<h3>Réglages à faire dans l'administration DNS de votre hébergeur</h3>
+### Réglages à faire dans l'administration DNS de votre hébergeur
 
 - Décidez quel nom de domaine vous souhaitez utiliser. 
 - Rendez-vous dans la gestion des zones DNS de votre registrar (chez Infomaniak ou autre).
@@ -32,7 +36,7 @@ Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous
 
 **Option sous-domaine:**
 
-- Si le domaine comporte un sous-domaine, comme portfolio.example.com, ou www.example.com, vous devrez créer une entrée de type CNAME.
+- Si le domaine comporte un sous-domaine, comme **portfolio.example.com**, ou **www.example.com**, vous devrez créer une entrée de type CNAME.
 - Renseignez "Champ/Field" (entrer le sous-domaine choisi), et "Cible/Target" (username.github.io). Si votre utilisateur est p.ex. Mafalda, vous entrerez : mafalda.github.io (tout en minuscules).
 - Vous pouvez laisser le champ TTL avec sa valeur par défaut.
 
