@@ -20,6 +20,11 @@ Quelques ressources pour apprendre à utiliser Git:
 - *[Think Like (a) Git](http://think-like-a-git.net/)*, une explication par Sam Livingston-Gray, 2011.
 - *[Get Started with Git](http://alistapart.com/article/get-started-with-git)*, par Al Shaw, A List Apart #317, 2010. 
 - *[Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)*, par Tobias Günther, A List Apart #402, 2014
+- https://www.codeschool.com/courses/try-git
+- http://gitready.com/
+- https://www.quora.com/What-is-the-best-Git-book
+- http://gitolite.com/gcs.html
+- https://learn.github.com/
 
 **Réflexions sur la philosophie du versionnement**:
 

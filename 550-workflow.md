@@ -19,7 +19,9 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 * Faites une "pull request" de votre branche vers la branche principale ("master").
 * Voilà! Vos collaborateurs peuvent voir vos modifications, faire des commentaires, et les approuver. Une fois approuvés, faire un "merge" de votre "pull request".
 
-<h3>Liens sur les workflows Git:</h3>
+![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg)
+
+### Liens sur les workflows Git:
 
 Au fil du temps, après que l'utilisation de GitHub dans le domaine du développement et du web se soit popularisé, différentes méthodologies de "gestion de projet Git" ont émergé. Voici quelques articles qui décrivent des méthodes d'organisation:
 
