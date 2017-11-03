@@ -19,14 +19,16 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 * Faites une "pull request" de votre branche vers la branche principale ("master").
 * Voilà! Vos collaborateurs peuvent voir vos modifications, faire des commentaires, et les approuver. Une fois approuvés, faire un "merge" de votre "pull request".
 
-![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg)
+![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg){:id: .large-image}
 
-### Liens sur les workflows Git:
+### Liens sur les workflows Git
 
 Au fil du temps, après que l'utilisation de GitHub dans le domaine du développement et du web se soit popularisé, différentes méthodologies de "gestion de projet Git" ont émergé. Voici quelques articles qui décrivent des méthodes d'organisation:
 
+<div class="cards"></div>
+
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - article de Vincent Driessen, 2010, définissant la méthodologie "Git Flow". Propose un système de branches.
-* [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/) - par Jeff Kreeftmeijer. Donne des informations techniques sur la manière d'appliquer le modèle "Git Flow" (et l'utilitaire [git-flow](https://github.com/nvie/gitflow), qui est "a wrapper around existing git commands").
+* [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/) - par Jeff Kreeftmeijer. Donne des informations techniques sur la manière d'appliquer le modèle "Git Flow" (et l'utilitaire git-flow, qui est "a wrapper around existing git commands").
 * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) - article de  Scott Chacon, 2011. Décrit une méthode plus simple et fluide (pratiquée par l'entreprise GitHub, d'où son nom).
 * [A simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912) - par Juan Benet, 2013.
 * [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) - article de Nicola Paolucci, 2014.

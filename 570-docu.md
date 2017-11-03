@@ -6,12 +6,14 @@ permalink: /git/documentation/
 
 Quelques ressources pour apprendre à utiliser Git:
 
-- *[GitHub Pour les Nuls](http://christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)*, par Lauren Orsini, trad. Christophe Ducamp, 2013.
-- *[Gérez vos codes source avec Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)*, un cours sur OpenClassroooms, par Mathieu Nebra.
-- *[Les bases de Git](https://git-scm.com/book/fr/v12)*, dans la documentation officielle de Git.
-- [git-guide](http://rogerdudler.github.io/git-guide/index.fr.html), par Roger Dudler (traduit par KokaKiwi)
-- [intro-git](http://liris.cnrs.fr/~pchampin/enseignement/intro-git/), support réalisé par Pierre-Antoine Champin et Amélie Cordier
-- [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html), par Andrew Peterson
+<div class="cards"></div>
+
+- [GitHub Pour les Nuls](http://christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/) par Lauren Orsini, trad. Christophe Ducamp, 2013.
+- [Gérez vos codes source avec Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git) un cours sur OpenClassroooms, par Mathieu Nebra.
+- [Les bases de Git](https://git-scm.com/book/fr/v12) dans la documentation officielle de Git.
+- [git-guide](http://rogerdudler.github.io/git-guide/index.fr.html) par Roger Dudler (traduit par KokaKiwi)
+- [intro-git](http://liris.cnrs.fr/~pchampin/enseignement/intro-git/) support réalisé par Pierre-Antoine Champin et Amélie Cordier
+- [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) par Andrew Peterson
 
 **En anglais:**
 
