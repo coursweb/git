@@ -10,8 +10,6 @@ Explication concernant le système de versionnement Git.
 
 **GitHub** est un service web offrant l'hébergement de projets utilisant Git, lancé en 2008 (cf. [cet article](http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html) sur les débuts de cette startup californienne). Devenu extrêmement populaire, GitHub offre de nombreuses fonctionnalités facilitant la communication et la collaboration. 
 
-
-
 Quelques services d'hébergement Git: 
 
 * [GitHub](https://github.com/), le plus utilisé avec plus de 14 millions d'utilisateurs (état 2016). 
@@ -21,8 +19,15 @@ Quelques services d'hébergement Git:
 
 ![publication marketing de GitHub](/cours-divers/img/github-activity-book.jpg)
 
-Terminologie Git
-==
+## Concept du versionnement
+
+Le principe de Git est d'offrir un système de versionnement, permettant de suivre de manière extrêmement précise chaque évolution d'un projet.
+
+Pour s'imaginer cela, voici la visualisation du développement d'une fonte typographique, Steps Mono, créée par Raphaël Bastide et Jean-Baptiste Morizot pour le magazine étapes:
+
+![Visualisation linéaire du développement de Steps Mono.](/cours-git/img/timeline-dev-fonte.jpg)
+
+## Terminologie Git
 
 Voici quelques-unes des actions fondamentales de Git:
 
@@ -48,8 +53,7 @@ Voici quelques-unes des actions fondamentales de Git:
 
 ![](/cours-divers/img/Strip-Bon-daccord-650-final.jpg)
 
-Guide d'utilisation GitHub:
-==
+## Guide d'utilisation GitHub:
 
 (Documentation à compléter)
 
@@ -60,8 +64,7 @@ Guide d'utilisation GitHub:
 - Faire un correctif sur un projet existant.
 
 
-Ecriture de messages de Commit
-===
+### Ecriture de messages de Commit
 
 "En règle générale, les messages doivent débuter par une ligne unique d’au plus 50 caractères décrivant concisément la modification, suivie d’une ligne vide, suivie d’une explication plus détaillée. Le projet Git exige que l’explication détaillée inclue la motivation de la modification en contrastant le nouveau comportement par rapport à l’ancien — c’est une bonne règle de rédaction."
 
@@ -71,8 +74,7 @@ Source: [The Git Book](https://git-scm.com/book/fr/v2/Git-distribu%C3%A9-Contrib
 
 Source: *[Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)*, présentation par Alice Bartlett, développeuse au Financial Times
 
-Les branches
-===
+### Les branches
 
 Le système des **branches** est une fonctionalité puissante, qui permet de sortir d'un processus d'avancement linéaire, et de créer au sein d'un projet des "bifurcations".
 
