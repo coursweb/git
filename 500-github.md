@@ -23,7 +23,7 @@ Quelques services d'hébergement Git:
 
 Le principe de Git est d'offrir un système de versionnement, permettant de suivre de manière extrêmement précise chaque évolution d'un projet.
 
-Pour s'imaginer cela, voici la visualisation du développement d'une fonte typographique, Steps Mono, créée par Raphaël Bastide et Jean-Baptiste Morizot pour le magazine étapes:
+Pour illustrer cela, voici la visualisation du développement d'une fonte typographique, Steps Mono, créée par Raphaël Bastide et Jean-Baptiste Morizot pour le magazine étapes:
 
 ![Visualisation linéaire du développement de Steps Mono.](/cours-git/img/timeline-dev-fonte.jpg)
 
