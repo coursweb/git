@@ -21,6 +21,37 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 
 ![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg){:id: .large-image}
 
+### Mettre à jour une branche
+
+En utilisant les branches pour travailler sur des fonctionalités précises ("feature-branch"), il est parfois nécessaires de récupérer les nouveaux commits survenus dans la branche "master".
+
+Voici comment le faire en ligne de commande:
+
+ * S'assurer qu'on est dans la branche de fonctionalité : ``git checkout <feature-branch>``
+ * Appliquer les updates de master : `git merge master`
+ * 
+Voici comment le faire avec SourceTree:
+
+* Cliquer sur le bouton "Merge" (ou via le menu: *Repository > Merge...*)
+* Choisir "Merge Fetched" et préciser: *Merge from fetched remote branch: origin/master*.
+
+### Fusionner une branche locale avec Master
+
+Voici la technique en ligne de commande:
+
+```
+git checkout master
+git pull origin master
+git merge test
+git push origin master
+``
+
+Voici la technique avec SourceTree:
+
+- Passez à la branche Master (double-clic).
+- Clic-droit sur la branche de fonctionalité, choisir "Merge feature-branch into master".
+- Dans la fenêtre confirm merge, cliquer "OK".
+
 ### Liens sur les workflows Git
 
 Au fil du temps, après que l'utilisation de GitHub dans le domaine du développement et du web se soit popularisé, différentes méthodologies de "gestion de projet Git" ont émergé. Voici quelques articles qui décrivent des méthodes d'organisation:
