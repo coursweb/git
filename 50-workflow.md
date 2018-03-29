@@ -29,7 +29,7 @@ Voici comment le faire en ligne de commande:
 
  * S'assurer qu'on est dans la branche de fonctionalité : ``git checkout <feature-branch>``
  * Appliquer les updates de master : `git merge master`
- * 
+
 Voici comment le faire avec SourceTree:
 
 * Cliquer sur le bouton "Merge" (ou via le menu: *Repository > Merge...*)
@@ -37,14 +37,16 @@ Voici comment le faire avec SourceTree:
 
 ### Fusionner une branche locale avec Master
 
+Vous avez achevé vos travaux dans la branche "feature-branch", et vous souhaitez faire entrer vos modifications dans la branche principale.
+
 Voici la technique en ligne de commande:
 
 ```
 git checkout master
 git pull origin master
-git merge test
+git merge feature-branch
 git push origin master
-``
+```
 
 Voici la technique avec SourceTree:
 
