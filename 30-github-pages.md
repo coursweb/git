@@ -4,7 +4,7 @@ title: Utiliser GitHub Pages
 permalink: /git/github-pages/
 ---
 
-GitHub offre une fonctionalité gratuite, GitHub Pages, qui permet de publier un site web à partir d'un projet GitHub.
+GitHub offre une fonctionalité gratuite, **GitHub Pages**, qui permet de publier un site web à partir d'un projet GitHub.
 
 Voici la marche à suivre:
 
@@ -28,11 +28,11 @@ Vous souhaitez utiliser votre propre nom de domaine, au lieu du "utilisateur.git
 
 Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous avez acheté le nom de domaine. 
 
-### Réglages à faire dans l'administration DNS de votre hébergeur
+### Réglages à faire dans l'administration DNS de votre Registrar
 
 - Décidez quel nom de domaine vous souhaitez utiliser. 
 - Rendez-vous dans la gestion des zones DNS de votre registrar (chez Infomaniak ou autre).
-- Pour trouver cet endroit chez Infomaniak, connectez-vous à [admin2.infomaniak.com](https://admin2.infomaniak.com/), allez dans : *Nom de domaine > Nom de votre domaine > Gestion des DNS*, puis cliquez le bouton "Gérer les zones DNS".
+- Pour trouver cet endroit chez Infomaniak, connectez-vous à [manager.infomaniak.com](https://manager.infomaniak.com/), allez dans : *Nom de domaine > Nom de votre domaine > Gestion des DNS*, puis cliquez le bouton "Gérer les zones DNS".
 
 **Option sous-domaine:**
 
