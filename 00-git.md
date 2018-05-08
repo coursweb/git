@@ -24,7 +24,7 @@ Il existe cependant d'autres services d'hébergement Git:
 
 * [BitBucket](https://bitbucket.org), un service freemium, acquis par la société australienne Atlassian en 2010. Contrairement à Github, il permet d'avoir des projets privés même dans la version gratuite. Le service devient payant à partir de 5 personnes dans une équipe.
 * [GitLab](https://about.gitlab.com/gitlab-com/), à la fois un service en ligne comparable à GitHub, et un outil serveur open-source.
-* [Framagit](https://framagit.org), un service maintenu par l'association Framasoft, reposant sur Gitlab.
+* [Framagit](https://framagit.org), un service maintenu par l'association Framasoft, reposant sur GitLab.
 
 ## Concept du versionnage
 
@@ -83,7 +83,6 @@ Voici quelques-uns des termes fondamentaux du système Git:
 - Synchroniser ses modifications
 - Faire un correctif sur un projet existant.
 
-
 ### Ecriture de messages de Commit
 
 "En règle générale, les messages doivent débuter par une ligne unique d’au plus 50 caractères décrivant concisément la modification, suivie d’une ligne vide, suivie d’une explication plus détaillée. Le projet Git exige que l’explication détaillée inclue la motivation de la modification en contrastant le nouveau comportement par rapport à l’ancien — c’est une bonne règle de rédaction."
@@ -96,13 +95,15 @@ Source: *[Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)*
 
 ### Les branches
 
-Le système des **branches** est une fonctionalité puissante, qui permet de sortir d'un processus d'avancement linéaire, et de créer au sein d'un projet des "bifurcations", voire une arborescence.
+Le système des **branches** est une fonctionnalité puissante, qui permet de sortir d'un processus d'avancement linéaire, et de créer au sein d'un projet des "bifurcations", voire une arborescence.
 
 Cela permet par exemple de créer une version alternative et expérimentale, pour tester de nouvelles fonctionalités.
 
-Ces ajouts, qui peuvent introduire des dysfonctionnements, ne vont pas perturber la version de base (généralement la branche "master"), qui reste ainsi stable.
+Ces ajouts, qui peuvent introduire des dysfonctionnements, ne vont pas perturber la version de base (généralement nommée "master"), qui reste ainsi stable.
 
 Une fois qu'un développement expérimental arrive à maturité, on peut l'intégrer dans la version de base. On fera cela en fusionnant la branche expérimentale avec la branche "master", en faisant appel à la fonction "merge".
 
-Un explicatif des branches dans l'interface SourceTree: [Use SourceTree branches to merge an update](https://confluence.atlassian.com/bitbucket/use-sourcetree-branches-to-merge-an-update-732268925.html)
+Voir à ce sujet: 
+
+* explicatif des branches dans l'interface SourceTree: [Use SourceTree branches to merge an update](https://confluence.atlassian.com/bitbucket/use-sourcetree-branches-to-merge-an-update-732268925.html)
 

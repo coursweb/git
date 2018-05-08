@@ -18,11 +18,11 @@ Github va vous dire "This folder is not a repository" ... c'est normal!
 
 **Attention:** avant votre premier commit, il est sage de vérifier que vous n'avez pas des formats de fichier non-désirés (qui risquent de rendre votre projet inutilement lourd):
 
-- Inspectez la liste des "Uncommited Changes". Si vous voyez des fichiers qui ne devraient pas être mis en ligne - des images TIFF, PSD, des fichiers InDesign... - c'est le moment de créer un GitIgnore.
+- Inspectez la liste des "Uncommited Changes". Si vous voyez des fichiers qui ne devraient pas être mis en ligne - des images TIFF, PSD, des fichiers InDesign... - c'est le moment de créer un **GitIgnore**.
 
 Pour cela, faites un clic-droit sur l'un de ces fichiers. Dans le menu contextuel, choisissez "Ignore all .indd files" (pour ne pas prendre en compte les fichiers InDesign, par exemple).
 
-- Une fois cela fait, effectuez votre premier **commit**. Indiquez un message de Commit (champ Summary), obligatoire.
+- Une fois cela fait, effectuez votre premier **commit**. Indiquez un message de Commit (champ *Summary*), obligatoire.
 - Une fois le commit fait, cliquez le bouton **Publish**.
 - Définissez le titre du projet, sous "Name"
 - Vérifiez que le compte Github est correct.
