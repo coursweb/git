@@ -72,3 +72,4 @@ Quelques autres articles sur l'utilisation de Git:
 
 - [Bien utiliser Git merge et rebase](http://www.git-attitude.fr/2014/05/04/bien-utiliser-git-merge-et-rebase/) - par Christophe Porteneuve (git-attitude), 2014
 
+![](/cours-git/img/git-merge-69262734.png)

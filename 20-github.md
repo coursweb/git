@@ -4,8 +4,6 @@ title: GitHub
 permalink: /git/github/
 ---
 
-![](/cours-git/img/what-is-git-hub-meme.jpeg)
-
 **[GitHub](https://github.com/)** est un service web offrant l'hébergement de projets utilisant Git, lancé en 2008 (cf. [cet article](http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html) sur les débuts de cette startup californienne). Devenu extrêmement populaire (plus de 14 millions d'utilisateurs en 2016), GitHub offre de nombreuses fonctionnalités facilitant la communication et la collaboration. En 2018, GitHub a été acheté par Microsoft.
 
 ![Une publication marketing de GitHub](/cours-divers/img/github-activity-book.jpg)
@@ -20,6 +18,8 @@ Il est aussi possible d'installer Git sur votre serveur, comme le fait par exemp
 
 
 ## Guide d'utilisation GitHub:
+
+![](/cours-git/img/what-is-git-hub-meme.jpeg)
 
 (Documentation à compléter)
 

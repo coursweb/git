@@ -4,6 +4,8 @@ title: Documentation
 permalink: /git/documentation/
 ---
 
+![](/cours-git/img/one-does-not-simply-understand.jpeg)
+
 Quelques ressources pour apprendre à utiliser Git:
 
 <div class="cards"></div>
@@ -36,3 +38,5 @@ Quelques ressources pour apprendre à utiliser Git:
 **Réflexions sur la philosophie du versionnement**:
 
 - *[Infinite Versioning](http://f-u-t-u-r-e.org/r/25_David-Reinfurt_Infinite-Versioning_EN.md)*, par David Reinfurt, 2014
+
+![](/cours-git/img/other-things-than-git.png)
