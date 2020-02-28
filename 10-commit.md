@@ -4,9 +4,9 @@ title: Commit
 permalink: /git/commit/
 ---
 
->> **Commit** : C’est la commande qui donne à Git toute sa puissance. Quand vous « committez », vous prenez un « instantané », une « photo » de votre dépôt à ce stade, vous donnant un point de contrôle que vous pouvez ensuite réévaluer ou restaurer votre projet à un état précédent. – Christophe Ducamp, *[Github pour les nuls](https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)*
+> **Commit** : C’est la commande qui donne à Git toute sa puissance. Quand vous « committez », vous prenez un « instantané », une « photo » de votre dépôt à ce stade, vous donnant un point de contrôle que vous pouvez ensuite réévaluer ou restaurer votre projet à un état précédent. – Christophe Ducamp, *[Github pour les nuls](https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)*
 
-![Plus le projet avance, moins les messages de commit sont informatifs...](/cours-divers/img/xkcd_git_commits.png)
+![Plus le projet avance, moins les messages de commit sont informatifs...](/cours-git/img/xkcd_git_commits.png)
 
 Source: [https://xkcd.com/1296/](https://xkcd.com/1296/)
 
