@@ -35,7 +35,7 @@ git revert --no-commit cc9c8f9 e7f7b31 0c2d789
 
 Les numéros étant ici à remplacer par les vrais identifiants des commits.
 
-### Erreurs de syncronisation
+### Erreurs de synchronisation
 
 **Problème:** Lors de la synchronisation, Git dit: *Sync Failed - There are both local and remote commits. Please commit all your changes and then sync again*.
 
@@ -103,6 +103,11 @@ Résultat: Git efface les fichiers!
 
 **Réponse:** ???
 
+### Si plus rien ne fonctionne
+
+![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](/cours-divers/img/xkcd-1597git_2x.png)
+
+Source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
 C'est plus simple avec un graphe
 ===

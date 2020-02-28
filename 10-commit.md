@@ -4,6 +4,10 @@ title: Commit
 permalink: /git/commit/
 ---
 
+![Plus le projet avance, moins mes messages de commit sont informatifs](/cours-divers/img/xkcd_git_commits.png)
+
+Source: [https://xkcd.com/1296/](https://xkcd.com/1296/)
+
 ### Ecriture de messages de Commit
 
 "En règle générale, les messages doivent débuter par une ligne unique d’au plus 50 caractères décrivant concisément la modification, suivie d’une ligne vide, suivie d’une explication plus détaillée. Le projet Git exige que l’explication détaillée inclue la motivation de la modification en contrastant le nouveau comportement par rapport à l’ancien — c’est une bonne règle de rédaction."
