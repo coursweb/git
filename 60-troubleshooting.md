@@ -65,6 +65,8 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ### Revenir en arrière
 
+![](/cours-git/img/gir-revert-meme.jpg)
+
 **Problème:**  
 On se trouve avec des modifications non voulues, qui ont été sauvées lors d'un commit. Comment revenir d'une version en arrière?
 
@@ -74,7 +76,10 @@ On se trouve avec des modifications non voulues, qui ont été sauvées lors d'u
 * Sélectionner le dernier Commit.
 * Cliquer l'icône "roue dentée", choisir "Revert this Commit".
 
+
 ### Apparition de Conflict Markers
+
+![](/cours-git/img/meme-merge-conflict.jpg)
 
 **Problème:** on a des caractères étranges dans un document, comme ceci: 
 
@@ -105,7 +110,7 @@ Résultat: Git efface les fichiers!
 
 ### Si plus rien ne fonctionne
 
-![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](/cours-divers/img/xkcd-1597git_2x.png)
+![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](/cours-git/img/xkcd-1597git_2x.png)
 
 Source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
