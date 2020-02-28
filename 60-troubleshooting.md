@@ -4,6 +4,8 @@ title: Troubleshooting
 permalink: /git/troubleshooting/
 ---
 
+![](/cours-git/img/git-is-hard.jpg)
+
 Git n'est certainement pas un outil simple. Voici quelques citations qui le confirment:
 
 > Git isn’t difficult because you’re not smart enough, or because you missed an important meeting. Git is difficult because Git is difficult.
