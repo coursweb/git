@@ -17,10 +17,18 @@ Quelques ressources pour apprendre à utiliser Git:
 - [intro-git](http://liris.cnrs.fr/~pchampin/enseignement/intro-git/) support réalisé par Pierre-Antoine Champin et Amélie Cordier
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) par Andrew Peterson
 
-**Tutoriels**:
-- [Tutoriel Hello World](https://guides.github.com/activities/hello-world/) sur Github.com
-- [Ressources sur Github.com](http://try.github.io/)
-- [Cours en ligne](https://lab.github.com/) sur GitHiub Learning Lab
+### Tutoriels en français
+- [http://fr.gitready.com/](http://fr.gitready.com/) - collection de tutoriels par Nick Quaranto
+- [Gérez votre code avec Git et GitHub](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github), un cours sur OpenClassrooms
+
+### Tutoriels sur GitHub (en anglais)
+- [Tutoriel Hello World](https://guides.github.com/activities/hello-world/), un premier tutoriel pour débuter sur Github.com
+- [try.github.io](http://try.github.io/) sur Github.com - Index des ressources d'apprentissage
+- [lab.github.com/](https://lab.github.com/) - le GitHub Learning Lab propose de nombreux tutoriels de programmation.
+
+### Tutoriels de l'organisation Girl Develop It
+- *[Intro to GitHub: No Terminal Required](https://www.teaching-materials.org/github-web/)*, par Girl Develop It (An introduction to finding, evaluating, and contributing to open source repositories using the GitHub web UI)
+- *[Intro to Git and GitHub](http://girldevelopit.github.io/gdi-featured-git-github/#/)* - the official Girl Develop It Core Intro to Git and GitHub course"
 
 **Articles en anglais:**
 
@@ -30,7 +38,7 @@ Quelques ressources pour apprendre à utiliser Git:
 - *[Get Started with Git](http://alistapart.com/article/get-started-with-git)*, par Al Shaw, *A List Apart #317*, 2010. 
 - *[Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)*, par Tobias Günther, *A List Apart #402*, 2014
 - *[Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)*, par Charles Duan.
-- [http://fr.gitready.com/](http://fr.gitready.com/) - collection de tutoriels par Nick Quaranto
+
 - [http://gitolite.com/gcs.html](http://gitolite.com/gcs.html)
 
 
