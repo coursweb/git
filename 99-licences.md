@@ -28,17 +28,26 @@ Ces trois licences sont mises en avant. Il y a ensuite la liste suivante:
 
 Voir aussi:
 
-Le site https://choosealicense.com/ donne des informations sur les licences connues:
+Le site [https://choosealicense.com/](https://choosealicense.com/) donne des informations sur les licences connues:
 
 - [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
 - [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 - [MIT License](https://choosealicense.com/licenses/mit/)
 
-D'autres licences intéressantes :
+## Licences pour contenus culturels
 
-- Free Art License - lire [wikipédia](https://fr.wikipedia.org/wiki/Licence_Art_Libre)
+###  Les licences Creative Commons
 
-Les licences Creative Commons
+Des licences libres ont été créées pour des contenus autres que du code, notamment des médias audiovisuels ou écrits.
+
+Lire l'article "[Licence Creative Commons](https://fr.wikipedia.org/wiki/Licence_Creative_Commons)" sur Wikipédia.
+
+Les licences Creative Commons les plus communes sont: 
+- [Creative Commons Zero]() (minimum de restrictions)
+- CC-BY : exige l'attribution.
+- CC-BY-SA : exige l'attribution et le partage à l'identique (c'est une licence "copyleft").
+
+Une alternative à la licence CC-BY-SA est la *Free Art License* - lire [wikipédia](https://fr.wikipedia.org/wiki/Licence_Art_Libre)
 
 Lire aussi:
 
