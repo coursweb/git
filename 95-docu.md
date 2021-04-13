@@ -18,19 +18,28 @@ Quelques ressources pour apprendre à utiliser Git:
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) par Andrew Peterson
 
 ### Tutoriels en français
+
+<div class="cards"></div>
+
 - [http://fr.gitready.com/](http://fr.gitready.com/) - collection de tutoriels par Nick Quaranto
 - [Gérez votre code avec Git et GitHub](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github), un cours sur OpenClassrooms
 
 ### Tutoriels sur GitHub (en anglais)
+
+<div class="cards"></div>
+
 - [Tutoriel Hello World](https://guides.github.com/activities/hello-world/), un premier tutoriel pour débuter sur Github.com
 - [try.github.io](http://try.github.io/) sur Github.com - Index des ressources d'apprentissage
 - [lab.github.com/](https://lab.github.com/) - le GitHub Learning Lab propose de nombreux tutoriels de programmation.
 
 ### Tutoriels de l'organisation Girl Develop It
+
+<div class="cards"></div>
+
 - *[Intro to GitHub: No Terminal Required](https://www.teaching-materials.org/github-web/)*, par Girl Develop It (An introduction to finding, evaluating, and contributing to open source repositories using the GitHub web UI)
 - *[Intro to Git and GitHub](http://girldevelopit.github.io/gdi-featured-git-github/#/)* - the official Girl Develop It Core Intro to Git and GitHub course"
 
-**Articles en anglais:**
+### Articles en anglais
 
 - *[Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)*, par John Wiegley
 - *GitHub for the Rest of Us* (explication de Git par la science-fiction), par Morten Rand-Hendriksen: [Vidéo de 10 minutes](https://wordpress.tv/2015/12/13/morten-rand-hendriksen-github-for-the-rest-of-us/) / [Slides](https://mor10.com/github-wcus/)
@@ -38,12 +47,11 @@ Quelques ressources pour apprendre à utiliser Git:
 - *[Get Started with Git](http://alistapart.com/article/get-started-with-git)*, par Al Shaw, *A List Apart #317*, 2010. 
 - *[Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)*, par Tobias Günther, *A List Apart #402*, 2014
 - *[Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)*, par Charles Duan.
-
-- [http://gitolite.com/gcs.html](http://gitolite.com/gcs.html)
-
+- *[git concepts simplified](http://gitolite.com/gcs.html)*, par Sitaram Chamarty, gitolite.com.
 
 
-**Réflexions sur la philosophie du versionnement**:
+
+### Réflexions sur la philosophie du versionnement
 
 - *[Infinite Versioning](http://f-u-t-u-r-e.org/r/25_David-Reinfurt_Infinite-Versioning_EN.md)*, par David Reinfurt, 2014
 
