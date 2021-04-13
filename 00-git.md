@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Git
-permalink: /git/
+permalink: index.html
 ---
 
 > Ce chapitre propose une introduction au logiciel Git et à la gestion de versions.
