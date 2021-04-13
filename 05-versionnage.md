@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Versionnage
-permalink: /git/versionnage/
+permalink: versionnage.html
 ---
 
 
@@ -11,7 +11,7 @@ Le principe fondamental de Git est d'offrir un système de **versionnage** (gest
 
 Pour illustrer cela, voici la visualisation du développement d'une fonte typographique, *[Steps Mono](https://velvetyne.fr/fonts/steps-mono/)*, créée par Raphaël Bastide et Jean-Baptiste Morizot pour le magazine *étapes*:
 
-![Visualisation linéaire du développement de Steps Mono.](/cours-git/img/timeline-dev-fonte.jpg)
+![Visualisation linéaire du développement de Steps Mono.](img/timeline-dev-fonte.jpg)
 
 ### Versionnage vs. déploiement
 
@@ -25,7 +25,7 @@ On peut donc très bien avoir des processus hybrides:
 * **FTP ou SFTP** est utilisé pour publier le code vers le serveur public (déploiement).
 * **Netlify** est un système d'hébergement en vogue, surtout pour des sites statiques (voir [CMS statiques](https://cours-web.ch/wp/similaires/#les-cms-en-fichiers-statistiques)). Il permet un déploiement depuis GitHub.
 
-![Versionnage / dépoiement](/cours-git/img/versionnage-deploiement.jpg)
+![Versionnage / dépoiement](img/versionnage-deploiement.jpg)
 
 
 
