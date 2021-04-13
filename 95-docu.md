@@ -22,7 +22,7 @@ Quelques ressources pour apprendre à utiliser Git:
 <div class="cards"></div>
 
 - [http://fr.gitready.com/](http://fr.gitready.com/) - collection de tutoriels par Nick Quaranto
-- [Gérez votre code avec Git et GitHub](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github), un cours sur OpenClassrooms
+- [Gérez du code avec Git et GitHub](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github), un cours sur OpenClassrooms
 
 ### Tutoriels sur GitHub (en anglais)
 
