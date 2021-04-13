@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Troubleshooting
-permalink: /git/troubleshooting/
+permalink: troubleshooting.html
 ---
 
-![](/cours-git/img/git-is-hard.jpg)
+![](img/git-is-hard.jpg)
 
 Git n'est certainement pas un outil simple. Voici quelques citations qui le confirment:
 
@@ -18,12 +18,8 @@ Sami Keijonen, développeur, [dans un article](https://poststatus.com/contributi
 
 Le plus important, avec Git, c'est d'adopter la pratique du "versionnement" dans son processus de travail. Ce n'est pas seulement un outil, un logiciel - c'est un ensemble de méthodes pour mieux organiser le travail collaboratif.
 
-![Un message encourageant quand on ne comprend plus rien](/cours-git/img/git-homeomorphic.png)
 
-
-
-Résolution de problèmes typiques:
-==
+## Résolution de problèmes typiques
 
 ### Annuler un commit
 
@@ -67,7 +63,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ### Revenir en arrière
 
-![](/cours-git/img/gir-revert-meme.jpg)
+![](img/gir-revert-meme.jpg)
 
 **Problème:**  
 On se trouve avec des modifications non voulues, qui ont été sauvées lors d'un commit. Comment revenir d'une version en arrière?
@@ -81,7 +77,7 @@ On se trouve avec des modifications non voulues, qui ont été sauvées lors d'u
 
 ### Apparition de Conflict Markers
 
-![](/cours-git/img/meme-merge-conflict.jpg)
+![](img/meme-merge-conflict.jpg)
 
 **Problème:** on a des caractères étranges dans un document, comme ceci: 
 
@@ -112,7 +108,7 @@ Résultat: Git efface les fichiers!
 
 ### Si plus rien ne fonctionne
 
-![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](/cours-git/img/xkcd-1597git_2x.png)
+![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](img/xkcd-1597git_2x.png)
 
 Source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
