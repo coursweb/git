@@ -4,7 +4,7 @@ title: Workflow
 permalink: /git/workflow/
 ---
 
-![](/cours-git/img/shower-github.png)
+![](img/shower-github.png)
 
 Un workflow Git
 ===
@@ -16,42 +16,42 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 * Enregistrez le fichier.
 * Faites un "Commit" de vos modifications, avec un message les décrivant.
 * Faites un "Push" de vos modifications.
-* Faites une "pull request" de votre branche vers la branche principale ("master").
+* Faites une "pull request" de votre branche vers la branche principale ("main").
 * Voilà! Vos collaborateurs peuvent voir vos modifications, faire des commentaires, et les approuver. Une fois approuvés, faire un "merge" de votre "pull request".
 
-![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg){:id: .large-image}
+![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](img/fire-git-commit-push.jpg){:id: .large-image}
 
 ### Mettre à jour une branche
 
-En utilisant les branches pour travailler sur des fonctionalités précises ("feature-branch"), il est parfois nécessaires de récupérer les nouveaux commits survenus dans la branche "master".
+En utilisant les branches pour travailler sur des fonctionalités précises ("feature-branch"), il est parfois nécessaires de récupérer les nouveaux commits survenus dans la branche "main".
 
 Voici comment le faire en ligne de commande:
 
  * S'assurer qu'on est dans la branche de fonctionalité : ``git checkout <feature-branch>``
- * Appliquer les updates de master : `git merge master`
+ * Appliquer les updates de "main" : `git merge main`
 
 Voici comment le faire avec SourceTree:
 
 * Cliquer sur le bouton "Merge" (ou via le menu: *Repository > Merge...*)
-* Choisir "Merge Fetched" et préciser: *Merge from fetched remote branch: origin/master*.
+* Choisir "Merge Fetched" et préciser: *Merge from fetched remote branch: origin/main*.
 
-### Fusionner une branche locale avec Master
+### Fusionner une branche locale avec Main
 
 Vous avez achevé vos travaux dans la branche "feature-branch", et vous souhaitez faire entrer vos modifications dans la branche principale.
 
 Voici la technique en ligne de commande:
 
 ```
-git checkout master
-git pull origin master
+git checkout main
+git pull origin main
 git merge feature-branch
-git push origin master
+git push origin main
 ```
 
 Voici la technique avec SourceTree:
 
-- Passez à la branche Master (double-clic).
-- Clic-droit sur la branche de fonctionalité, choisir "Merge feature-branch into master".
+- Passez à la branche Main (double-clic).
+- Clic-droit sur la branche de fonctionalité, choisir "Merge feature-branch into main".
 - Dans la fenêtre confirm merge, cliquer "OK".
 
 ### Liens sur les workflows Git
@@ -72,4 +72,4 @@ Quelques autres articles sur l'utilisation de Git:
 
 - [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/) - par Christophe Porteneuve (git-attitude), 2014
 
-![](/cours-git/img/git-merge-69262734.png)
+![](img/git-merge-69262734.png)

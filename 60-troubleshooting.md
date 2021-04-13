@@ -86,7 +86,7 @@ On se trouve avec des modifications non voulues, qui ont été sauvées lors d'u
     Une version de mon projet
 =======
     Une autre version de mon projet
->>>>>>> master
+>>>>>>> main
 ```
 
 **Solution:** Ces symboles sont des délimiteurs nommés "conflict markers", ils indiquent un conflit non-résolu entre deux versions d'un même fichier, que Git n'a pas pu résoudre automatiquement.
@@ -102,7 +102,7 @@ Résultat: Git efface les fichiers!
 
 ### Changer de branche
 
-**Problème:** On a fait un "commit" dans la branche Master, mais en fait, on aurait préféré le faire sur une nouvelle branche (qui n'existe pas encore). Ceci afin de faire une "pull-request", suivant les bonnes pratiques du [workflow Git](/git/workflow/). 
+**Problème:** On a fait un "commit" dans la branche Main, mais en fait, on aurait préféré le faire sur une nouvelle branche (qui n'existe pas encore). Ceci afin de faire une "pull-request", suivant les bonnes pratiques du [workflow Git](/git/workflow/). 
 
 **Réponse:** ???
 
@@ -117,4 +117,4 @@ C'est plus simple avec un graphe
 
 Pour sa présentation *"[Changing History, or How to Git pretty](http://justinhileman.info/article/changing-history/)"*, Justin Hileman a créé le graphe "escape a git mess, step-by-step" - un visuel qui vous montre les différents cheminements pour résoudre un problème dans Git:
 
-![escape a git mess, step-by-step](/cours-divers/img/git-pretty.png)
+![escape a git mess, step-by-step](img/git-pretty.png)

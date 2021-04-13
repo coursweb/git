@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Documentation
-permalink: /git/documentation/
+permalink: documentation.html
 ---
 
-![](/cours-git/img/one-does-not-simply-understand.jpeg)
+![](img/one-does-not-simply-understand.jpeg)
 
 Quelques ressources pour apprendre à utiliser Git:
 
@@ -47,4 +47,4 @@ Quelques ressources pour apprendre à utiliser Git:
 
 - *[Infinite Versioning](http://f-u-t-u-r-e.org/r/25_David-Reinfurt_Infinite-Versioning_EN.md)*, par David Reinfurt, 2014
 
-![](/cours-git/img/other-things-than-git.png)
+![](img/other-things-than-git.png)

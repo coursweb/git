@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logiciels
-permalink: /git/logiciels/
+permalink: logiciels.html
 ---
 
 Quelques logiciels pour utiliser Git à travers une interface graphique (en alternative à la ligne de commande):
@@ -13,7 +13,7 @@ Quelques logiciels pour utiliser Git à travers une interface graphique (en alte
 
 Il en existe des dizaines, qui sont repertoriés [sur le site git-scm](https://git-scm.com/download/gui/mac).
 
-![Quelques interfaces Git](/cours-git/img/interfaces-git.jpg)
+![Quelques interfaces Git](img/interfaces-git.jpg)
 
 Pour les amateurs de la ligne de commande, voici un utilitaire permettant d'utiliser les commandes Git en français:
 

@@ -29,7 +29,7 @@ On peut donc très bien avoir des processus hybrides:
 
 
 
-![](/cours-divers/img/Strip-Bon-daccord-650-final.jpg)
+![](img/Strip-Bon-daccord-650-final.jpg)
 
 
 

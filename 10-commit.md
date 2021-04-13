@@ -16,7 +16,7 @@ Source: [https://xkcd.com/1296/](https://xkcd.com/1296/)
 
 Source: [The Git Book](https://git-scm.com/book/fr/v2/Git-distribu%C3%A9-Contribution-%C3%A0-un-projet)
 
-![Messages de Commit](/cours-divers/img/git-commit-messages.png)
+![Messages de Commit](img/git-commit-messages.png)
 
 Source: *[Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)*, conférence par Alice Bartlett, développeuse au *Financial Times* - aussi disponible [en vidéo](https://www.youtube.com/watch?v=eWxxfttcMts).
 

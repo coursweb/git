@@ -10,7 +10,7 @@ Voici la marche à suivre:
 
 - Sur la page de votre projet Github, cliquez sur l'onglet *Settings*.
 - Scrollez vers le bas, dans la partie "Github Pages"
-- Sous "Source", choisir la branche à utiliser (en principe "master branch").
+- Sous "Source", choisir la branche à utiliser (en principe "main").
 - Laisser vide le champ "Custom domain".
 - Enregistrer ("Save").
 
@@ -40,9 +40,9 @@ Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous
 - Renseignez "Champ/Field" (entrer le sous-domaine choisi), et "Cible/Target" (username.github.io). Si votre utilisateur est p.ex. Mafalda, vous entrerez : mafalda.github.io (tout en minuscules).
 - Vous pouvez laisser le champ TTL avec sa valeur par défaut.
 
-![Ajout de CNAME chez Infomaniak](/cours-divers/img/github-dns-cname.png)
+![Ajout de CNAME chez Infomaniak](img/github-dns-cname.png)
 
-![Ajout de CNAME chez O2Switch](/cours-divers/img/git-cname-o2switch.png)
+![Ajout de CNAME chez O2Switch](img/git-cname-o2switch.png)
 
 **Option "apex domain":**
 
@@ -50,9 +50,9 @@ Vous devez pour cela faire une configuration auprès du Registrar, chez qui vous
 - Renseignez "Cible" et entrez les adresses IP [fournies par GitHub dans leur documentation](https://help.github.com/articles/setting-up-an-apex-domain/), à savoir 192.30.252.153 et 192.30.252.154 (une pour chaque entrée A).
 - Vous pouvez laisser le champ TTL avec sa valeur par défaut.
 
-![Ajout de zone A chez Infomaniak](/cours-divers/img/git-apex-infomaniak.png)
+![Ajout de zone A chez Infomaniak](img/git-apex-infomaniak.png)
 
-![Même réglage, chez Hostpoint](/cours-divers/img/git-apex-hostpoint.png)
+![Même réglage, chez Hostpoint](img/git-apex-hostpoint.png)
 
 PS: le réglage d'adresse IP sera différent pour d'autres services web. P.ex. pour un domaine Tumblr, l'adresse IP sera 66.6.44.4.
 
@@ -64,9 +64,9 @@ PS: le réglage d'adresse IP sera différent pour d'autres services web. P.ex. p
 - Sous "Custom domain", renseigner le domaine, p.ex. portfolio.example.com
 - Enregistrer ("Save") - ça y est, votre site fonctionne!
 
-Note: initialement il était nécessaire de créer une branche nommée "gh-pages", mais ce [n'est plus nécessaire depuis août 2016](https://github.com/blog/2228-simpler-github-pages-publishing), on peut désormais aussi utiliser la branche "master".
+Note: initialement il était nécessaire de créer une branche nommée "gh-pages", mais ce [n'est plus nécessaire depuis août 2016](https://github.com/blog/2228-simpler-github-pages-publishing), on peut désormais aussi utiliser la branche "main".
 
-![Saisie du domaine pour GitHub Pages](/cours-divers/img/github-custom-pages.png)
+![Saisie du domaine pour GitHub Pages](img/github-custom-pages.png)
 
 **Documentation de GitHub Pages:** 
 
