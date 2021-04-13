@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Utiliser GitHub Pages
-permalink: /git/github-pages/
+permalink: github-pages.html
 ---
 
 GitHub offre une fonctionalité gratuite, **GitHub Pages**, qui permet de publier un site web à partir d'un projet GitHub.
@@ -16,7 +16,7 @@ Voici la marche à suivre:
 
 Vous verrez un message indiquant "Your site is published at https://(utilisateur).github.io/(projet)/"
 
-![Réglages de GitHub Pages](/cours-git/img/reglages-github-pages.png)
+![Réglages de GitHub Pages](img/reglages-github-pages.png)
 
 Si vous visitez la page immédatement, il est possible que vous ayez pendant les premières minutes une page d'erreur... Attendez un peu, le temps que votre site soit généré.
 
