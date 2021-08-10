@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminologie
-permalink: /git/terminologie/
+permalink: terminologie.html
 ---
 
 Voici quelques-uns des termes fondamentaux du système Git:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Créer un projet
-permalink: /git/github-creer/
+permalink: github-publier.html
 ---
 
 **Comment créer un projet sur GitHub?**
@@ -30,5 +30,5 @@ Pour cela, faites un clic-droit sur l'un de ces fichiers. Dans le menu contextue
 
 **Bravo, votre projet est désormais en ligne!**
 
-Si vous souhaitez qu'il soit accessible par une adresse personalisée, voir [Github Pages](/git/github-pages/).
+Si vous souhaitez qu'il soit accessible par une adresse personalisée, voir [Github Pages](github-pages.html).
 

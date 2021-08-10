@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Licences
-permalink: /git/licences/
+permalink: licences.html
 ---
 
 Quand on travaille sur GitHub, il est utile de comprendre les enjeux des licences, en particulier les licences Open-Source.

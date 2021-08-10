@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workflow
-permalink: /git/workflow/
+permalink: workflow.html
 ---
 
 ![](img/shower-github.png)
