@@ -63,8 +63,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ### Revenir en arrière
 
-![](img/gir-revert-meme.jpg)
-
 **Problème:**  
 On se trouve avec des modifications non voulues, qui ont été sauvées lors d'un commit. Comment revenir d'une version en arrière?
 

@@ -13,6 +13,10 @@ Pour illustrer cela, voici la visualisation du développement d'une fonte typogr
 
 ![Visualisation linéaire du développement de Steps Mono.](img/timeline-dev-fonte.jpg)
 
+Voici le genre de problème que Git vise à éviter: la confusion sur les changements dans les versions successives d'un projet.
+
+!["Final".doc, par PHDcomics](img/phdcomics-final-doc.gif)
+
 ### Versionnage vs. déploiement
 
 Dans le domaine du développement web, Git est souvent utilisé pour la **collaboration** et le **versionnage** du code d'un site. 
