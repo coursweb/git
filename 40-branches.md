@@ -28,6 +28,6 @@ Une fois qu'un développement expérimental arrive à maturité, on peut l'inté
 
 **Create Branch from Commit** : permet de créer une nouvelle branche à parir d'un ancien commit, dans l'historique du projet.
 
-## Documentation sur les branches
+## Documentation sur les branches
 
 * Explicatif des branches dans l'interface SourceTree: [Use SourceTree branches to merge an update](https://confluence.atlassian.com/bitbucket/use-sourcetree-branches-to-merge-an-update-732268925.html)
