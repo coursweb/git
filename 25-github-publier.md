@@ -32,3 +32,12 @@ Pour cela, faites un clic-droit sur l'un de ces fichiers. Dans le menu contextue
 
 Si vous souhaitez qu'il soit accessible par une adresse personalisée, voir [Github Pages](github-pages.html).
 
+## La même chose en vidéo
+
+### Créer un nouveau projet
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oj46QLGUr_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Cloner un projet existant
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jf3zZNoYDYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

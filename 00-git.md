@@ -16,4 +16,4 @@ Voici quelques-uns des avantages que Git apporte:
 
 Git est à la base un outil "en ligne de commande". Afin d'avoir un meilleur confort d'utilisation, il existe divers logiciels offrant une interface graphique. Il existe également des services en ligne permettant d'héberger des projets Git, afin de faciliter la collaboration et d'avoir une sauvegarde en ligne.
 
-
+Voir [les logiciels](logiciels.html)

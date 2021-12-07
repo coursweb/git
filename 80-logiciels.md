@@ -6,7 +6,7 @@ permalink: logiciels.html
 
 Quelques logiciels pour utiliser Git à travers une interface graphique (en alternative à la ligne de commande):
 
-- [GitHub Desktop](https://desktop.github.com/), client Git (Mac et Windows) développé par GitHub.
+- [GitHub Desktop](https://desktop.github.com/), client Git (Mac et Windows) développé par GitHub. Simple et efficace.
 - [SourceTree](https://www.sourcetreeapp.com/), client Git (Mac et Windows) développé par Atlassian (société proposant le service BitBucket).
 - [GitKraken](https://www.gitkraken.com/), "Free for open source, education, non‑profit, startups or personal use".
 - [SmartGit](http://www.syntevo.com/smartgit/ ), "can be used free of charge by Open Source developers, teachers and their students, or for hobby, non-paid usage."
