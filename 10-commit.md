@@ -45,7 +45,7 @@ L'écriture de messages de commit est l'une des méthodes permettant d'avoir un 
 
 En 2014, Chris Beams définit sept règles pour l'écriture d'un bon commit, dans son article "*[How to Write a Git Commit Message](https://cbea.ms/git-commit/)*":
 
-1. Le sujet doit être séparé du message par une ligne vide.
+1. Le sujet (obligatoire) doit être séparé du message (facultatif) par une ligne vide.
 2. Le sujet doit être limité à 50 caractères.
 3. La première lettre prend une majuscule.
 4. Ne pas terminer le sujet par un point.
