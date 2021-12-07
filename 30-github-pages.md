@@ -74,10 +74,4 @@ Note: initialement il était nécessaire de créer une branche nommée "gh-pages
 * [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
 * [Setting up an apex domain](https://help.github.com/articles/setting-up-an-apex-domain-and-www-subdomain/)
 
-### Activer HTTPS pour votre domaine
 
-Depuis 2016-2017, il est devenu crucial de servir les sites avec le protocole sécurisé HTTPS. Sur GitHub Pages, cela est automatiquement le cas si on utilise le domaine par défaut (github.io), mais pas avec un nom de domaine personalisé (Github ne proposant pas de certificat SSL pour ces domaines).
-
-Pour activer le support du HTTPS, il existe actuellement (état: fin 2017) une méthode consistant à recourir au service CloudFlare. Ce service DNS intermédiaire (qui propose principalement des foncionalités de cache et de protection contre les cyberattaques) permet d'avoir gratuitement un certificat SSL qui fonctionne pour un site Github. La technique [est documentée sur cette page](https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b).
-
-C'est la méthode utilisée pour le site cours-web.ch, qui est hébergé avec GitHub Pages.
