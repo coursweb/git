@@ -37,11 +37,11 @@ Voici le modèle proposé:
 [optional footer(s)]
 ```
 
-### Autres bonnes pratiques
+### Autres bonnes pratiques
 
 L'écriture de messages de commit est l'une des méthodes permettant d'avoir un historique lisible et structuré. Ces bonnes pratiques, qui tout d'abord apparaissent comme une perte de temps, deviendront une habitude, et augmenteront la productivité de toutes les parties prenantes.
 
-### Les sept règles du bon commit
+### Les sept règles du bon commit
 
 En 2014, Chris Beams définit sept règles pour l'écriture d'un bon commit, dans son article "*[How to Write a Git Commit Message](https://cbea.ms/git-commit/)*":
 
@@ -64,10 +64,10 @@ En appliquant cette logique au français, la forme verbale doit être **le prés
 - Ce commit *simplifie la structure du CSS*
 - Ce commit *supprime des images non-utilisées*
 
-### Ce qu'il ne faut pas faire
+### Ce qu'il ne faut pas faire
 
 Cette bande-dessinée de xkcd montre un exemple de commentaires Git mal utilisés: ils expriment le désespoir d'un développeur, mais n'indiquent pas le but des modifications, et n'ont finalement aucune utilité.
 
-![Plus le projet avance, moins les messages de commit sont informatifs...](img/xkcd/xkcd_git_commits.png)
+![Plus le projet avance, moins les messages de commit sont informatifs...](img/comics/xkcd_git_commits.png)
 
 Source: [https://xkcd.com/1296/](https://xkcd.com/1296/)

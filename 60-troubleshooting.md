@@ -106,7 +106,7 @@ Résultat: Git efface les fichiers!
 
 ### Si plus rien ne fonctionne
 
-![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](img/xkcd/xkcd-1597git_2x.png)
+![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](img/comics/xkcd-1597git_2x.png)
 
 Source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
