@@ -4,7 +4,7 @@ title: Workflow
 permalink: workflow.html
 ---
 
-![](img/shower-github.png)
+![](img/memes/shower-github.png)
 
 Un workflow Git
 ===
@@ -72,4 +72,4 @@ Quelques autres articles sur l'utilisation de Git:
 
 - [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/) - par Christophe Porteneuve (git-attitude), 2014
 
-![](img/git-merge-69262734.png)
+![](img/memes/git-merge-69262734.png)

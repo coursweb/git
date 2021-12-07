@@ -4,7 +4,7 @@ title: Troubleshooting
 permalink: troubleshooting.html
 ---
 
-![](img/git-is-hard.jpg)
+![](img/memes/git-is-hard.jpg)
 
 Git n'est certainement pas un outil simple. Voici quelques citations qui le confirment:
 
@@ -75,7 +75,7 @@ On se trouve avec des modifications non voulues, qui ont été sauvées lors d'u
 
 ### Apparition de Conflict Markers
 
-![](img/meme-merge-conflict.jpg)
+![](img/memes/meme-merge-conflict.jpg)
 
 **Problème:** on a des caractères étranges dans un document, comme ceci: 
 
@@ -106,7 +106,7 @@ Résultat: Git efface les fichiers!
 
 ### Si plus rien ne fonctionne
 
-![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](img/xkcd-1597git_2x.png)
+![En cas de problème irrésoluble, il reste l'option de télécharger une version propre du projet et recommencer](img/xkcd/xkcd-1597git_2x.png)
 
 Source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
