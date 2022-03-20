@@ -68,6 +68,6 @@ En appliquant cette logique au français, la forme verbale doit être **le prés
 
 Cette bande-dessinée de xkcd montre un exemple de commentaires Git mal utilisés: ils expriment le désespoir d'un développeur, mais n'indiquent pas le but des modifications, et n'ont finalement aucune utilité.
 
-![Plus le projet avance, moins les messages de commit sont informatifs...](img/comics/xkcd_git_commits.png)
+![Plus le projet avance, moins les messages de commit sont informatifs...](img/git-folklore/xkcd_git_commits.png)
 
 Source: [https://xkcd.com/1296/](https://xkcd.com/1296/)

@@ -16,6 +16,10 @@ Une fois qu'un développement expérimental arrive à maturité, on peut l'inté
 
 ## Fonctions dans l'interface Github Desktop
 
+Dans Github Desktop, le menu "Branch" propose différentes fonctions permettant d'agir sur les branches.
+
+![Le menu Branch dans Github Desktop](img/gh-desktop/ghd-menu-branch.jpg)
+
 `cherry-pick` : cette fonction permet de sélectionner un ou plusieurs commits, et de les ajouter à une autre branche. En faisant un click-droit sur un commit dans l'historique, choisir "Cherry-pick Commit...". Il est possible de le faire par un glisser-déposer:
 
 ![](img/gh-desktop/cherry-pick-commits.gif)
@@ -27,6 +31,12 @@ Une fois qu'un développement expérimental arrive à maturité, on peut l'inté
 `stash`: cette fonction permet de "mettre dans une cachette" les modifications qui n'ont pas été commitées. On la trouve dans le menu *Branch > Stash All Changes*.
 
 **Create Branch from Commit** : permet de créer une nouvelle branche à parir d'un ancien commit, dans l'historique du projet.
+
+## Merge
+
+## Pull Request
+
+
 
 ## Documentation sur les branches
 

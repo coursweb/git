@@ -15,7 +15,7 @@ Pour illustrer cela, voici la visualisation du développement d'une fonte typogr
 
 Voici le genre de problème que Git vise à éviter: la confusion sur les changements dans les versions successives d'un projet.
 
-!["Final".doc, par PHDcomics](img/comics/phdcomics-final-doc.gif)
+!["Final".doc, par PHDcomics](img/git-folklore/phdcomics-final-doc.gif)
 
 ### Versionnage vs. déploiement
 
@@ -33,7 +33,7 @@ On peut donc très bien avoir des processus hybrides:
 
 
 
-![](img/comics/Strip-Bon-daccord-650-final.jpg)
+![](img/git-folklore/Strip-Bon-daccord-650-final.jpg)
 
 
 

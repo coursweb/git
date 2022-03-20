@@ -6,6 +6,8 @@ permalink: index.html
 
 > Ce chapitre propose une introduction au logiciel Git et à la gestion de versions.
 
+![Logo de Git](img/git-basics/git-logo.png)
+
 **Git** est un logiciel de *gestion de versions* décentralisé, créé en 2005 par Linus Torvalds (le créateur de Linux). C'est un logiciel libre, sous licence GPL. Il existe des versions pour toutes les plateformes, y compris MacOS. Le site officiel de documentation est [git-scm.com](https://git-scm.com).
 
 Voici quelques-uns des avantages que Git apporte: 
@@ -14,6 +16,10 @@ Voici quelques-uns des avantages que Git apporte:
 - Permet de synchroniser un projet entre plusieurs collaborateurs, en ayant l'assurance que tous les fichiers soient à jour.
 - Permet d'avoir un historique précis de tous les changements et modifications d'un projet. Cela permet de clarifier les questions récurrentes: "Où est la dernière version du fichier X?" et "Qu'est-ce qui a été changé entre les révisions 41 et 42"?.
 
-Git est à la base un outil "en ligne de commande". Afin d'avoir un meilleur confort d'utilisation, il existe divers logiciels offrant une interface graphique. Il existe également des services en ligne permettant d'héberger des projets Git, afin de faciliter la collaboration et d'avoir une sauvegarde en ligne.
+Git est à la base un outil "en ligne de commande". Afin d'avoir un meilleur confort d'utilisation, il existe divers logiciels offrant une interface graphique. 
 
 Voir [les logiciels](logiciels.html)
+
+Il existe également des services en ligne (comme GitHub) permettant d'héberger des projets Git, afin de faciliter la collaboration et d'avoir une sauvegarde en ligne.
+
+Voir [GitHub et autres hébergements](github.html)

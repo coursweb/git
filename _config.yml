@@ -7,7 +7,7 @@ chapters:
    url: https://cours-web.ch/
  - title: Git
    url: https://cours-web.ch/git/
- # Footer content
+# Footer content
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
