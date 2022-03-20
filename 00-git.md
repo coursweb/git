@@ -6,7 +6,7 @@ permalink: index.html
 
 > Ce chapitre propose une introduction au logiciel Git et à la gestion de versions.
 
-![Logo de Git](img/git-basics/git-logo.png)
+<img src="img/git-basics/git-logo.png" alt="Logo de Git" style="width: 300px;">
 
 **Git** est un logiciel de *gestion de versions* décentralisé, créé en 2005 par Linus Torvalds (le créateur de Linux). C'est un logiciel libre, sous licence GPL. Il existe des versions pour toutes les plateformes, y compris MacOS. Le site officiel de documentation est [git-scm.com](https://git-scm.com).
 
