@@ -19,7 +19,7 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 * Faites une "pull request" de votre branche vers la branche principale ("main").
 * Voilà! Vos collaborateurs peuvent voir vos modifications, faire des commentaires, et les approuver. Une fois approuvés, faire un "merge" de votre "pull request".
 
-![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](img/fire-git-commit-push.jpg){:id: .large-image}
+![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](img/git-folklore/fire-git-commit-push.jpg){:id: .large-image}
 
 ### Mettre à jour une branche
 
