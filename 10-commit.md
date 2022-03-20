@@ -6,7 +6,7 @@ permalink: commit.html
 
 > **Commit** : C’est la commande qui donne à Git toute sa puissance. Quand vous « committez », vous prenez un « instantané », une « photo » de votre dépôt à ce stade, vous donnant un point de contrôle que vous pouvez ensuite réévaluer ou restaurer votre projet à un état précédent. – Christophe Ducamp, *[Github pour les nuls](https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)*
 
-
+![Ce designer vient de commiter un changement de couleur](img/abstract/commit-changes.jpg)
 
 ### Ecriture de messages de Commit
 
