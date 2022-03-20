@@ -20,6 +20,8 @@ Voici quelques-uns des termes fondamentaux du système Git:
 
 **Merge** (fusionner) : *combining two branches*. Une action critique: le "merge" est le fusionnement de deux versions d'un projet (branche alternative vers branche principale). Si cela se passe bien, les modifications de la branche A seront proprement intégrées par la branche B. Si cela se passe mal, vous pouvez rencontrer un "merge conflict".
 
+![](img/memes/git-Merge.gif)
+
 **Rebase** (rembobiner) : *apply any commits of current branch ahead of specified one*.
 
 **Branch** (branche) : *create a new branch at the current commit (a movable label that points to a commit)*.

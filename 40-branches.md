@@ -14,6 +14,8 @@ Ces ajouts, qui peuvent introduire des dysfonctionnements, ne vont pas perturber
 
 Une fois qu'un développement expérimental arrive à maturité, on peut l'intégrer dans la version de base. On fera cela en fusionnant la branche expérimentale avec la branche "main", en faisant appel à la fonction "merge".
 
+![Représentation des branches, par Daina Lightfoot](img/git-basics/version-history-header.jpg)
+
 ## Fonctions dans l'interface Github Desktop
 
 Dans Github Desktop, le menu "Branch" propose différentes fonctions permettant d'agir sur les branches.
@@ -34,9 +36,11 @@ Dans Github Desktop, le menu "Branch" propose différentes fonctions permettant 
 
 ## Merge
 
+(à documenter)
+
 ## Pull Request
 
-
+(à documenter)
 
 ## Documentation sur les branches
 

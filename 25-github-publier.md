@@ -4,7 +4,7 @@ title: Créer un projet
 permalink: github-publier.html
 ---
 
-**Comment créer un projet sur GitHub?**
+## Comment créer un projet sur GitHub ?
 
 Voici la méthode avec l'application GitHub Desktop:
 
@@ -23,6 +23,25 @@ Github va vous dire "This folder is not a repository" ... c'est normal!
 - Inspectez la liste des "Uncommited Changes". Si vous voyez des fichiers qui ne devraient pas être mis en ligne - des images TIFF, PSD, des fichiers InDesign... - c'est le moment de créer un **GitIgnore**.
 
 Pour cela, faites un clic-droit sur l'un de ces fichiers. Dans le menu contextuel, choisissez "Ignore all .indd files" (pour ne pas prendre en compte les fichiers InDesign, par exemple).
+
+Le fichier `.gitignore` est un fichier optionnel, situé à la racine de votre projet, qui permet de désigner tout ce que Git doit "ignorer". 
+
+Cela comprend généralement des fichiers temporaires créés par certains logiciels, ou des fichiers système comme [.DS_Store](https://fr.wikipedia.org/wiki/.DS_Store) (sur MacOS), [Thumbs.db](https://fr.wikipedia.org/wiki/Thumbs.db) ou Desktop.ini (systèmes Windows).
+
+Exemple, [le .gitignore du Repository de Space Grotesk](https://github.com/floriankarsten/space-grotesk/blob/master/.gitignore):
+
+```
+# file manager empty files
+.DS_Store
+.empty
+.sparkleshare
+# temporary files
+*(Autosaved).glyphs
+*.vfbak
+# minisite files
+/docs/node_modules
+/docs/package-lock.json
+```
 
 ### Le premier commit
 
