@@ -4,10 +4,10 @@ title: Enseignement
 permalink: enseignement.html
 ---
 
-Services disponibles pour l'enseignement :
+## Services disponibles pour l'enseignement
 
-- [https://classroom.github.com/](https://classroom.github.com/) : permet de créer des "assignments" à partir d'un dépôt de code modèle.
-- [https://education.github.com/](https://education.github.com/) : informe sur différentes offres pour élèves et enseignants (GitHub Campus Program, GitHub Campus Advisor...)
+- [Github Classroom](https://classroom.github.com/) : outil de gestion qui permet de créer des "Assignments" à partir d'un dépôt de code modèle.
+- [Github Education](https://education.github.com/) : portail qui informe sur différentes offres pour élèves et enseignants (GitHub Campus Program, GitHub Campus Advisor...).
 
 ## Upgrader une organisation
 
