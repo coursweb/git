@@ -27,6 +27,8 @@ Tutoriel vidéo:
 
 Pour consulter et évaluer plus facilement le travail des élèves, il existe une application dédiée: [Classroom Assistant](https://classroom.github.com/assistant).
 
+Il existe aussi [une extension pour VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom&ssr=false#overview).
+
 ## Forum de discussion
 
 Il existe un forum de discussion dédié aux enseignants: 
