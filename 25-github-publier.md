@@ -11,10 +11,12 @@ Voici la méthode avec l'application GitHub Desktop:
 - Lancez l'application Github Desktop
 - Faites *File > Add Local Repository* et choisissez votre dossier de travail
 
-Github va vous dire "This folder is not a repository" ... c'est normal!
+GitHub va vous dire "This directory is not a Git repository" ... c'est normal!
 
-- Cliquer *Create and Add*
-- Github va ajouter votre dossier, c'est désormais un dossier de travail Git.
+- Cliquer *Create a repository*
+- GitHub va ajouter votre dossier, c'est désormais un dossier de travail Git.
+- Vous devez faire "Publish repository" pour le publier sur GitHub.
+- Vous devez indiquer le nom du repository, choisir s'il sera public ou privé, choisir s'il se trouve dans une organisation.
 
 La même chose en vidéo:
 
@@ -62,11 +64,7 @@ Exemple, [le .gitignore du Repository de Space Grotesk](https://github.com/flori
 
 Si vous souhaitez qu'il soit accessible par une adresse personalisée, voir [Github Pages](github-pages.html).
 
-## La même chose en vidéo
-
-### Créer un nouveau projet
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oj46QLGUr_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Explications en vidéo
 
 ### Cloner un projet existant
 
