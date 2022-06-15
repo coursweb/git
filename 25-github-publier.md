@@ -16,6 +16,13 @@ Github va vous dire "This folder is not a repository" ... c'est normal!
 - Cliquer *Create and Add*
 - Github va ajouter votre dossier, c'est désormais un dossier de travail Git.
 
+La même chose en vidéo:
+
+<video width="100%" controls>
+  <source src="videos/publier-sur-github.mp4" type="video/mp4">
+</video>
+
+
 ### Le .gitignore
 
 **Attention:** avant votre premier commit, il est sage de vérifier que vous n'avez pas des formats de fichier non-désirés (qui risquent de rendre votre projet inutilement lourd):
