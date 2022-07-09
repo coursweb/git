@@ -21,6 +21,11 @@ Quelques limitations du plan "free":
 
 La demande d'upgrade se fait suivant [la procédure documentée ici](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount).
 
+Pour upgrader une organisation du niveau "Free" au niveau "Team", une page spéciale existe ici:
+
+- [https://education.github.com/globalcampus/teacher](https://education.github.com/globalcampus/teacher)
+
+
 ## L'outil Classroom
 
 Permet de créer des Classroom Assignments, à partir d'un dépôt de code modèle. Il peut s'agir d'assignments individuels, ou de groupe.
