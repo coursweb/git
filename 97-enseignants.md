@@ -15,6 +15,10 @@ Les organisations Github ont des droits différents. En 2022, il existe trois ty
 
 Vous pouvez demander un upgrade d'une organisation "Free" en niveau "Team". À noter que le niveau "Free" permet déjà de créer des "Unlimited public/private repositories". Il sera donc suffisant pour la plupart des usages.
 
+Quelques limitations du plan "free":
+- Ne permet pas d'avoir des Wikis pour des répertoires privés.
+- Ne permet pas d'utiliser Github Pages pour des répertoires privés.
+
 La demande d'upgrade se fait suivant [la procédure documentée ici](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount).
 
 ## L'outil Classroom
