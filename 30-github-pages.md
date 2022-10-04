@@ -10,7 +10,7 @@ GitHub offre une fonctionalité gratuite, **GitHub Pages**, qui permet de publie
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EGwAkHYHV_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Etapes pas à pas
+## Etapes pas à pas
 
 Voici la marche à suivre:
 
