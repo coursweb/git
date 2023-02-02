@@ -15,7 +15,7 @@ Si GitHub est le plus populaire, il existe cependant d'autres services d'héberg
 * [GitLab](https://about.gitlab.com/gitlab-com/), à la fois un service en ligne comparable à GitHub, et un logiciel open-source qu'on peut installer sur son serveur.
 * [Framagit](https://framagit.org), un service maintenu par l'association Framasoft, reposant sur GitLab.
 
-![Netlify propose l'importation depuis les trois principaux hébergements Git](img/netlify-connect-repo.jpg)
+![Netlify propose l'importation depuis les trois principaux hébergements Git: GitHub, Bitbucket et GitLab](img/netlify-connect-repo.jpg)
 
 Il est aussi possible d'installer Git sur votre serveur, comme le fait par exemple le collectif de graphistes OSP (Open Source Publishing). Voici leur serveur Git public, qui héberge notamment leurs créations typographiques: [https://gitlab.constantvzw.org/osp](https://gitlab.constantvzw.org/osp). La fonderie Velvetyne héberge également ses fontes sur Gitlab: [https://gitlab.com/velvetyne](https://gitlab.com/velvetyne)
 
