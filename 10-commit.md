@@ -43,30 +43,28 @@ L'écriture de messages de commit est l'une des méthodes permettant d'avoir un 
 
 ### Les sept règles du bon commit
 
-En 2014, Chris Beams définit sept règles pour l'écriture d'un bon commit, dans son article "*[How to Write a Git Commit Message](https://cbea.ms/git-commit/)*":
+En 2014, Chris Beams définit quelques règles pour l'écriture d'un bon commit, dans son article "*[How to Write a Git Commit Message](https://cbea.ms/git-commit/)*":
 
-1. Le sujet (obligatoire) doit être séparé du message (facultatif) par une ligne vide.
-2. Le sujet doit être limité à 50 caractères.
-3. La première lettre prend une majuscule.
-4. Ne pas terminer le sujet par un point.
-5. Utiliser le présent (ou l'impératif si on écrit en anglais).
-6. Faire des retours de ligne au-delà de 72 caractères.
-7. Le message doit expliquer le *pourquoi*.
+- Le sujet doit être limité à 50 caractères.
+- La première lettre prend une majuscule.
+- Ne pas terminer le sujet par un point.
+- Utiliser une même forme verbale pour tous les commits.
+- Le message doit expliquer le *pourquoi*.
 
-Quelle forme verbale utiliser? **L'impératif** est recommandé pour l'anglais. Le message du commit devrait compléter la phrase *"If applied, this commit will..."*.
+Quelle forme verbale utiliser? En anglais, le message du commit devrait compléter la phrase *"If applied, this commit will..."*.
 
-- If applied, this commit will *update getting started documentation*
-- If applied, this commit will *remove deprecated methods*
+- If applied, this commit will... *Update getting started documentation*
+- If applied, this commit will... *Remove deprecated methods*
 
-En appliquant cette logique au français, la forme verbale doit être **le présent**. Le message doit répondre à la question: *"Ce commit..."*. Exemples:
+En français, le message doit compléter la phrase *"Ce commit..."*. Exemples:
 
-- Ce commit *complète la documentation*
-- Ce commit *simplifie la structure du CSS*
-- Ce commit *supprime des images non-utilisées*
+- Ce commit... *Complète la documentation*
+- Ce commit... *Simplifie la structure du CSS*
+- Ce commit... *Supprime des images non-utilisées*
 
 ### Ce qu'il ne faut pas faire
 
-Cette bande-dessinée de xkcd montre un exemple de commentaires Git mal utilisés: ils expriment le désespoir d'un développeur, mais n'indiquent pas le but des modifications, et n'ont finalement aucune utilité.
+Cette bande-dessinée de xkcd montre un exemple de commentaires Git mal utilisés: ils expriment l'état d'esprit de l'auteur, mais n'indiquent pas *le sens des modifications*, et n'ont donc aucune utilité.
 
 ![Plus le projet avance, moins les messages de commit sont informatifs...](img/git-folklore/xkcd_git_commits.png)
 
