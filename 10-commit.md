@@ -41,7 +41,7 @@ Voici le modèle proposé:
 
 L'écriture de messages de commit est l'une des méthodes permettant d'avoir un historique lisible et structuré. Ces bonnes pratiques, qui tout d'abord apparaissent comme une perte de temps, deviendront une habitude, et augmenteront la productivité de toutes les parties prenantes.
 
-### Les sept règles du bon commit
+### Les règles du bon commit
 
 En 2014, Chris Beams définit quelques règles pour l'écriture d'un bon commit, dans son article "*[How to Write a Git Commit Message](https://cbea.ms/git-commit/)*":
 
