@@ -29,26 +29,26 @@ Le livre "*[Pro Git](https://git-scm.com/book/fr/v2)*" donne une bonne explicati
 
 Git gère **trois états** dans lesquels les fichiers peuvent résider : `modifié`, `indexé` et `validé`.
 
-- **Modifié** (*Modified*) signifie que vous avez modifié le fichier mais qu’il n’a pas encore été validé (*committed*).
-- **Indexé** (*Staged*) signifie que vous avez marqué un fichier modifié dans sa version actuelle pour qu’il fasse partie du prochain instantané du projet.
-- **Validé** (*Committed*) signifie que les données sont stockées en sécurité dans votre base de données locale.
+- **Modifié** (*Modified*) signifie que vous avez modifié le fichier mais qu’il n’a pas encore été ni indexé, ni validé.
+- **Indexé** (*Staged*) signifie que vous avez marqué un fichier modifié dans sa version actuelle pour qu’il fasse partie du prochain instantané du projet. C'est un état transitoire, qui peut encore être annulé.
+- **Validé** (*Committed*) signifie que les modifications idexées sont maintenant stockées dans votre base de données locale.
 
-Ceci nous mène aux **trois sections principales** d’un projet Git : le **répertoire de travail** (*working directory*), la **zone d’index** (*staging area*) et le **répertoire Git** (*Git directory*).
+Ceci correspond aux **trois sections principales** d’un projet Git : le **répertoire de travail** (*working directory*), la **zone d’index** (*staging area*) et le **répertoire Git** (*Git directory*).
 
 ![Les trois zones, selon Pro Git](img/git-basics/areas.png)
 
-- Le **répertoire de travail** (*working tree* ou *working directory*) : votre espace de travail, sur votre ordinateur. En langage Git: "c'est une extraction unique d’une version du projet. Ces fichiers sont extraits depuis la base de données compressée dans le répertoire Git et placés sur le disque pour pouvoir être utilisés ou modifiés". 
-- La **zone d’index**. On l’appelle aussi la zone de préparation (*staging area*). On y ajoute des fichiers avec la commande "git add": ils sont désormais indexés (*staged*). Cette zone stocke tout ce qui fera partie du prochain instantané (commit). La zone d'index n'est pas synchronisée ni partagée, elle n'existe que sur votre ordinateur.
-- Le **répertoire Git** (*Git directory* ou *local repository*) est l’endroit où Git stocke les méta-données et la base de données des objets de votre projet. C’est la partie la plus importante de Git, et c’est ce qui est copié lorsque vous clonez un dépôt depuis un autre ordinateur.
+- Le **répertoire de travail** (*working tree* ou *working directory*) : correspond à votre espace de travail, sur votre ordinateur. En langage Git: "c'est une extraction unique d’une version du projet. Ces fichiers sont extraits depuis la base de données compressée dans le répertoire Git et placés sur le disque pour pouvoir être utilisés ou modifiés". 
+- La **zone d’index**. On l’appelle aussi la zone de préparation (*staging area*). On y ajoute des fichiers avec la commande "git add": ils sont désormais indexés (*staged*). Cette zone stocke tout ce qui fera partie du prochain instantané (commit). La zone d'index n'est pas synchronisée ni partagée, elle n'existe que sur votre ordinateur. Dans des logiciels visuels comme Github Desktop, la zone d'index comprend les fichiers modifiés qui sont cochés.
+- Le **répertoire Git** (*Git directory* ou *local repository*) est l’endroit où Git stocke les méta-données et la base de données des objets de votre projet. C’est la partie la plus importante de Git. C’est ce qui est copié lorsque vous clonez un dépôt depuis un autre ordinateur.
 
-On pourrait encore ajouter deux sections:
+Il exsite deux autres sections importantes:
 
 - Le **répertoire Git distant** (*remote* ou *upstream repository*): il s'agit du serveur, par exemple sur Github (ou Gitlab, Framagit). 
-- Le **stash** : des modifications "mises de côté". Permet de sauvegarder temporairement des changements apportés à votre copie de travail pour que vous puissiez effectuer d'autres tâches, puis revenir et les réappliquer par la suite.
+- Le **stash** : des modifications "mises de côté" de façon temporaire, en local sur votre ordinateur. Le "stash" permet de sauvegarder temporairement des changements apportés à votre copie de travail pour que vous puissiez effectuer d'autres tâches, puis revenir et les réappliquer par la suite.
 
 ![Représentation des états, espaces et commandes](img/git-basics/commandes-git.jpg)
 
-L’utilisation standard de Git se passe comme suit :
+Une utilisation standard de Git se passe comme suit :
 
 1. vous modifiez des fichiers dans votre répertoire de travail (état = modifié).
 2. vous **indexez** (*stage*) les fichiers modifiés, ce qui ajoute des instantanés de ces fichiers dans la zone d’index (état = indexé).
