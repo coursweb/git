@@ -48,7 +48,7 @@ Questions d'auto-évaluation sur Git.
 
 ---
 
-**4. Git est l’outil parfait pour faire le versionnage des fichiers suivants (cochez ce qui est vrai) : **
+**4. Git est l’outil parfait pour faire le versionnage des fichiers suivants (cochez ce qui est vrai):**
 
 - [ ] Fichiers audio (AIFF, WAV).
 - [ ] HTML, CSS et autres langages informatiques.
