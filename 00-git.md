@@ -29,7 +29,7 @@ Git a été inventé pour gérer des projets informatiques – du code. Mais se
 - écrire de la documentation
 - gérer des documents légaux comme [les textes de loi](http://bundestag.github.io/gesetze/) du gouvernement d'Allemagne
 - des données médicales, comme p.ex. [les données Covid](https://github.com/openZH/covid_19) (direction de santé du canton de Zurich)
-- Git est très utilisé dans le domaine du design typographique. Exemples: chez Google Fonts, chaque fonte est gérée dans Github.
+- Git est très utilisé dans le domaine du design typographique. Exemples: [chez Google Fonts](https://github.com/google/fonts), chaque fonte est gérée dans Github.
 
 ## Travailler avec Git
 
