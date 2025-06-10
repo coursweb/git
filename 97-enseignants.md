@@ -34,7 +34,11 @@ Tutoriel vidéo:
 
 [https://classroom.github.com/videos](https://classroom.github.com/videos)
 
-Pour consulter et évaluer plus facilement le travail des élèves, il existe une application dédiée: [Classroom Assistant](https://classroom.github.com/assistant).
+Pour consulter et évaluer plus facilement le travail des élèves, il existe une application dédiée: [Github Classroom CLI](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/using-github-classroom-with-github-cli). Avec cet outil, on peut effectuer cette commande qui permet de clôner tous les projets d'élèves pour un Assignment: 
+
+```
+gh classroom clone student-repos
+```
 
 Il existe aussi [une extension pour VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom&ssr=false#overview).
 
