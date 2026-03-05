@@ -40,7 +40,6 @@ C'est un des cas où le terminal reste incontournable, même avec GitHub Desktop
 
 ```
 git checkout a3f5c2d -- .
-
 ```
 
 Le `.` signifie "tous les fichiers" — Git restaure alors l'ensemble des fichiers du commit dans leur état d'époque.
@@ -77,5 +76,5 @@ Très bonne question ! Les deux permettent de récupérer des choses du passé, 
 
 En résumé:
 
-**Cherry-pick** → tu veux récupérer tout un commit du passé
-**checkout fichiers** → tu veux récupérer des fichiers précis d'un commit
+**Cherry-pick** → tu veux récupérer tout un commit du passé. 
+**checkout fichiers** → tu veux récupérer des fichiers précis d'un commit. 
