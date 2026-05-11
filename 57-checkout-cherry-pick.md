@@ -76,5 +76,5 @@ Très bonne question ! Les deux permettent de récupérer des choses du passé, 
 
 En résumé:
 
-**Cherry-pick** → tu veux récupérer tout un commit du passé. 
+**Cherry-pick** → tu veux récupérer tout un commit du passé.  
 **checkout fichiers** → tu veux récupérer des fichiers précis d'un commit. 
