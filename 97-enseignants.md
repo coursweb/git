@@ -25,6 +25,9 @@ Pour upgrader une organisation du niveau "Free" au niveau "Team", une page spéc
 
 - [https://education.github.com/globalcampus/teacher](https://education.github.com/globalcampus/teacher)
 
+## L'outil Copilot
+
+Voir la documentation dédiée: [cours-web.ch/ia/github-copilot.html](https://cours-web.ch/ia/github-copilot.html)
 
 ## L'outil Classroom
 
